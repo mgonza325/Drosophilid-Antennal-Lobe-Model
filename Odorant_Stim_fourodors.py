@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[10]:
+# In[1]:
 
 
 import csv
@@ -54,7 +54,7 @@ def fit_all_forced_EC(compounds, ORs):
     return params
 
 or_list = odour_info[0][2:]
-compounds = ['geranyl acetate', 'anisole', '2-heptanone']
+compounds = ['geranyl acetate', 'anisole', '2-heptanone', 'menthol']
 
 params_forced_EC = fit_all_forced_EC(compounds, or_list)
 
