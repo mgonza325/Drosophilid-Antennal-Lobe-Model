@@ -8,6 +8,10 @@ Figures/
 
 Data/
 
+Results/
+
+Simulation Data/
+
 Model-Spiking-ORN-dmel-2heptanone.ipynb
 
 Model-Spiking-ORN-dmel-anisole.ipynb
@@ -27,3 +31,11 @@ Comparing-dmel-dere-connectivity.ipynb
 Odorant_Stim_SiECvalues.py
 
 picky.cfg
+
+PyTry-Results-SingleOSN-Exp1A.ipynb
+
+Trial-Results.ipynb
+
+Trial-version.ipynb
+
+Model-single-ORN-activity.ipynb
